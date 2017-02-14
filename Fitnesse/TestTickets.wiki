@@ -1,0 +1,9 @@
+---
+Test
+---
+
+|eg.Tickets|
+|price|numberOfTravelers|totalPrice?|
+|10       |2          |20       |
+|12       |3          |36       |
+

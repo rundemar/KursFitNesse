@@ -1,0 +1,7 @@
+---
+Test
+---
+
+|eg.Addition|
+|digitA     |digitB     |sum?   |
+|10         |2          |12     |
