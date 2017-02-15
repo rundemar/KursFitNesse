@@ -1,0 +1,9 @@
+---
+Test
+---
+!path C:\Users\rundemar\KursFitNesse\src\eg\
+!define TEST_SYSTEM {slim}
+
+|eg.GroupTickets|
+|price      |numberOfTravelers  |ageOfYoungestTraveler  |totalAmount?   |
+|           |                   |                       |               |

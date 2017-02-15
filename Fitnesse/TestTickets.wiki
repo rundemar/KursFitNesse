@@ -1,9 +1,9 @@
 ---
 Test
 ---
+!path C:\Users\rundemar\KursFitNesse\src\eg\
+!define TEST_SYSTEM {slim}
 
 |eg.Tickets|
-|price|numberOfTravelers|totalPrice?|
-|10       |2          |20       |
-|12       |3          |36       |
-
+|ageA   |ageB   |calculateTotalAmount?|
+|       |       |                     |

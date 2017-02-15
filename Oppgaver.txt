@@ -1,0 +1,43 @@
+------ Oppgave 1 - Divisjon ------
+
+Filer
+- Division.java
+- TestDivision.wiki
+
+Krav
+- Klassen skal ta inn en teller og en nevner, og returnere kvotienten av disse to
+- Klassen skal håndtere desimaltall og negative tall som input
+- Klassen skal håndere en teller med verdi 0 som input
+
+A) Implementer FitNesse-tester som verifiserer at kravene over er oppfylt.
+
+B) Hvilke flere krav kunne vært aktuelt å stille?
+
+
+------ Oppgave 2 - Gruppebilletter ------
+
+Filer
+- GroupTickets.java
+- TestGroupTickets.wiki
+
+A) Formuler minst 5 krav til klassen GroupTickets.
+
+B) Implementer FitNesse-tester som verifiserer at kravene fra punkt 2A er oppfylt.
+
+
+------ Oppgave 3 - Billetter ------
+
+Filer
+- Tickets.java
+- TestTickets.wiki
+
+Krav
+- Klassen skal ta inn alderen til to personer, og returnere den totale billettprisen for disse to
+- Dersom en person er under 16 år, koster en billett 22 kr
+- Dersom en person er over 16 år, og under 65 år, koster en billett 35 kr
+- Dersom en person er over 65 år, koster en billett 15 kr
+
+A) Implementer FitNesse-tester som verifiserer at kravene over er oppfylt.
+
+B) Er testene fra punkt 3A dekkende for funksjonaliteten i klassen? Hvis nei; hvorfor ikke?
+
